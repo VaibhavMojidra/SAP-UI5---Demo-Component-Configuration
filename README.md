@@ -17,13 +17,13 @@ The Component Configuration is a set of metadata and settings that define how a 
 
 
 ```
-- webapp
-  - index.js
-  - component.js
-  - view
-    - App.view.xml
-  - controller
-    - App.controller.js
+📂 webapp
+  📄 index.js
+  📄 component.js
+  📂 view
+    📄 App.view.xml
+  📂 controller
+    📄 App.controller.js
 
 ```
 ---
